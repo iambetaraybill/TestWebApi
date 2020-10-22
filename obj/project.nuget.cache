@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7iy6Fz2d7QW6T19RFb5/ZsTW21KD3Em/X2x4wxRA4ypI9QsVe7A6btjpAQHN/OGvSeO/nbcYSrTQm0vAejZRPQ==",
+  "dgSpecHash": "4MXN5F//5PJO1pzujQf9ADVIJadSpiknbRKNxGnC35sAKDCStGkKbvvWJD9/ceSXE7+csoWpNbDMLBPewYwlIA==",
   "success": true,
   "projectFilePath": "D:\\MyAspDotNetProjects\\TestWebApi\\TestWebApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }
