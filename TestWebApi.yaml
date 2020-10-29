@@ -13,8 +13,8 @@ spec:
         app: TestWebApi
     spec:
       containers:
-      - name: TestWebApiRepos
-        image: WebAppDocerCR.azurecr.io/dnrepos:latest
+      - name: 848863DNAzureACR
+        image: 848863dnazureacr.azurecr.io/dnrepo:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
