@@ -8,3 +8,13 @@ D:\MyAspDotNetProjects\TestWebApi\obj\Debug\netcoreapp3.1\TestWebApi.AssemblyInf
 D:\MyAspDotNetProjects\TestWebApi\obj\Debug\netcoreapp3.1\TestWebApi.RazorTargetAssemblyInfo.cache
 D:\MyAspDotNetProjects\TestWebApi\obj\Debug\netcoreapp3.1\staticwebassets\TestWebApi.StaticWebAssets.Manifest.cache
 D:\MyAspDotNetProjects\TestWebApi\obj\Debug\netcoreapp3.1\staticwebassets\TestWebApi.StaticWebAssets.xml
+D:\MyAspDotNetProjects\TestWebApi\bin\Debug\netcoreapp3.1\TestWebApi.deps.json
+D:\MyAspDotNetProjects\TestWebApi\bin\Debug\netcoreapp3.1\TestWebApi.runtimeconfig.json
+D:\MyAspDotNetProjects\TestWebApi\bin\Debug\netcoreapp3.1\TestWebApi.runtimeconfig.dev.json
+D:\MyAspDotNetProjects\TestWebApi\bin\Debug\netcoreapp3.1\TestWebApi.dll
+D:\MyAspDotNetProjects\TestWebApi\bin\Debug\netcoreapp3.1\TestWebApi.pdb
+D:\MyAspDotNetProjects\TestWebApi\obj\Debug\netcoreapp3.1\TestWebApi.csproj.CoreCompileInputs.cache
+D:\MyAspDotNetProjects\TestWebApi\obj\Debug\netcoreapp3.1\TestWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\MyAspDotNetProjects\TestWebApi\obj\Debug\netcoreapp3.1\TestWebApi.dll
+D:\MyAspDotNetProjects\TestWebApi\obj\Debug\netcoreapp3.1\TestWebApi.pdb
+D:\MyAspDotNetProjects\TestWebApi\obj\Debug\netcoreapp3.1\TestWebApi.genruntimeconfig.cache

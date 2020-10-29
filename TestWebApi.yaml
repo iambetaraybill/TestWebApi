@@ -1,0 +1,35 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: testwebapi-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: TestWebApi
+  template:
+    metadata:
+      labels:
+        app: TestWebApi
+    spec:
+      containers:
+      - name: TestWebApiRepos
+        image: WebAppDocerCR.azurecr.io/dnrepos:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: TestWebApi
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: TestWebApi
+
+
