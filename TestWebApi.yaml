@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: 848863DNAzureACR
-        image: 848863dnazureacr.azurecr.io/dnrepo:latest
+        image: 848863dnazureacr.azurecr.io/dsconfigsn2:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
